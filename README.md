@@ -74,9 +74,8 @@ python src/main.py
 The interactive menu will prompt you to:
 
 1. **Choose puzzle input method**:
-   - Load from a text file (comma-separated values, 0 for blank cells)
-   - Reuse the previously loaded puzzle
-   - Enter a new puzzle manually row by row
+   - Load from a text file (comma-separated values, 0 for blank cells) - the last used puzzle can be loaded from here
+   - Enter a new puzzle manually row by row - you will be asked to provide a filename to save the puzzle to
 
 2. **Choose solving method**:
    - Strategy-based solver (logical deduction)
