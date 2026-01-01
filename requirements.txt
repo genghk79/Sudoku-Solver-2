@@ -1,3 +1,4 @@
 pandas
 python-json-logger
 PyYAML
+inquirer
